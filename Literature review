@@ -1,0 +1,71 @@
+# Literature Review: AI in Pharmacovigilance
+
+## 1. Introduction
+
+Pharmacovigilance is the science of detecting, assessing,
+understanding, and preventing adverse effects associated
+with medicines.
+
+Artificial Intelligence (AI), Machine Learning (ML), and
+Natural Language Processing (NLP) are being investigated
+as tools to support adverse drug reaction (ADR) detection
+and drug safety monitoring.
+
+## 2. Review Objectives
+
+- Examine AI applications in pharmacovigilance.
+- Explore NLP-based ADR identification.
+- Identify limitations in existing research.
+- Determine opportunities for further investigation.
+
+## 3. Key Research Themes
+
+### 3.1 Machine Learning
+
+Machine learning methods can analyze drug-safety data
+and help prioritize potential safety signals for further
+investigation.
+
+### 3.2 Natural Language Processing
+
+NLP can extract medicine names, symptoms, and suspected
+adverse events from unstructured text, including clinical
+narratives and scientific publications.
+
+### 3.3 Deep Learning
+
+Deep-learning approaches are being evaluated for
+identifying relationships between medicines and adverse
+events in clinical text.
+
+## 4. Limitations in Existing Research
+
+- Incomplete and inconsistent data.
+- False-positive and false-negative predictions.
+- Limited validation across different datasets.
+- Difficulties interpreting model predictions.
+- Privacy and data-governance concerns.
+- The risk of confusing an association with causation.
+
+## 5. Research Gap
+
+Although AI-based approaches show potential for ADR
+detection, their performance may vary across datasets
+and healthcare settings.
+
+Further evaluation is needed to understand how reliably
+these approaches identify suspected ADRs and which
+errors require human review.
+
+## 6. Proposed Research Question
+
+How accurately can an NLP-assisted approach identify
+suspected adverse drug reactions in a suitable,
+publicly available dataset?
+
+## 7. Conclusion
+
+AI may support pharmacovigilance by assisting with
+information extraction and prioritization of potential
+safety signals. However, reliable validation, responsible
+data handling, and human expert review remain essential.
