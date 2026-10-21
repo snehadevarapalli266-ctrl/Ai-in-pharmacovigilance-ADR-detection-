@@ -1,0 +1,180 @@
+# Scientific Article Summaries
+## AI in Pharmacovigilance and ADR Detection
+
+### Article 1
+**Topic:** Machine Learning in Pharmacovigilance
+
+**Authors:** Kompa et al.  
+**Year:** 2022
+
+**Objective:** To review how machine learning is being applied in pharmacovigilance.
+
+**Key findings:** Machine learning has potential for detecting safety signals and supporting drug-safety analysis.
+
+**Limitations:** Differences in study design and validation make it difficult to compare results across studies.
+
+**Research relevance:** Supports investigating the reliability of AI-assisted drug-safety methods.
+
+**DOI:** https://doi.org/10.1007/s40264-022-01176-1
+
+---
+
+### Article 2
+**Topic:** Machine Learning for Pharmacovigilance
+
+**Authors:** Pilipiec et al.  
+**Year:** 2022
+
+**Objective:** To review machine-learning approaches used for pharmacovigilance, including information from online text.
+
+**Key findings:** Machine learning may help identify suspected adverse drug reactions from text-based sources.
+
+**Limitations:** Online information may be incomplete, inaccurate, or unrepresentative.
+
+**Research relevance:** Highlights the importance of reliable data sources.
+
+**DOI:** https://doi.org/10.3390/pharmaceutics14020266
+
+---
+
+### Article 3
+**Topic:** Statistical and Machine Learning Methods for ADR Analysis
+
+**Authors:** Kim et al.  
+**Year:** 2022
+
+**Objective:** To examine statistical and machine-learning approaches for adverse drug reaction analysis.
+
+**Key findings:** Different methods can support ADR detection, depending on the data and research question.
+
+**Limitations:** Differences in methods and datasets make direct comparisons challenging.
+
+**Research relevance:** Supports evaluating model performance using clearly defined criteria.
+
+**DOI:** https://doi.org/10.1097/MD.0000000000029387
+
+---
+
+### Article 4
+**Topic:** Artificial Intelligence in Pharmacovigilance
+
+**Authors:** Salas et al.  
+**Year:** 2022
+
+**Objective:** To review applications of AI in pharmacovigilance.
+
+**Key findings:** AI may support adverse-event identification and drug-safety workflows.
+
+**Limitations:** Data heterogeneity can affect model performance and generalizability.
+
+**Research relevance:** Highlights the need for validation before practical implementation.
+
+**DOI:** https://doi.org/10.1007/s40290-022-00441-z
+
+---
+
+### Article 5
+**Topic:** NLP-Based Adverse Drug Event Detection
+
+**Authors:** Murphy et al.  
+**Year:** 2023
+
+**Objective:** To review supervised NLP methods for identifying adverse drug events.
+
+**Key findings:** NLP can help identify medicine and adverse-event information in clinical narratives.
+
+**Limitations:** Differences in annotation and evaluation methods complicate comparisons.
+
+**Research relevance:** Supports investigating the accuracy of automated text extraction.
+
+**DOI:** https://doi.org/10.1371/journal.pone.0279842
+
+---
+
+### Article 6
+**Topic:** Machine Learning and Exploratory Pharmacovigilance
+
+**Authors:** Kaas-Hansen et al.  
+**Year:** 2023
+
+**Objective:** To examine machine learning for exploratory pharmacovigilance using large patient datasets.
+
+**Key findings:** Machine learning offers opportunities for analyzing large-scale clinical data.
+
+**Limitations:** Evidence supporting routine implementation remains limited.
+
+**Research relevance:** Highlights the need for further validation in different settings.
+
+**DOI:** https://doi.org/10.1111/bcpt.13828
+
+---
+
+### Article 7
+**Topic:** Deep Learning for Adverse Drug Event Detection
+
+**Authors:** Li et al.  
+**Year:** 2024
+
+**Objective:** To review machine-learning and deep-learning approaches for detecting adverse drug events in clinical text.
+
+**Key findings:** Deep-learning approaches have shown promise on benchmark text-analysis tasks.
+
+**Limitations:** Performance on benchmark datasets may not reflect performance in every real-world setting.
+
+**Research relevance:** Supports evaluating AI-assisted ADR detection against reference annotations.
+
+**DOI:** https://doi.org/10.1016/j.jbi.2024.104621
+
+---
+
+### Article 8
+**Topic:** Opportunities and Challenges of AI in Pharmacovigilance
+
+**Author:** Desai  
+**Year:** 2024
+
+**Objective:** To discuss opportunities and challenges associated with AI in pharmacovigilance.
+
+**Key findings:** AI may assist pharmacovigilance professionals with data-intensive activities.
+
+**Limitations:** Implementation requires appropriate oversight, reliable data, and validation.
+
+**Research relevance:** Emphasizes human supervision in AI-assisted workflows.
+
+**DOI:** https://doi.org/10.4103/picr.picr_290_23
+
+---
+
+### Article 9
+**Topic:** NLP and Machine Learning for Adverse Drug Event Detection in Medical Records
+
+**Authors:** Golder et al.  
+**Year:** 2025
+
+**Objective:** To review NLP and machine-learning approaches for detecting adverse drug events in electronic health and medical records.
+
+**Key findings:** Automated text analysis may assist adverse-event detection.
+
+**Limitations:** The available evidence and external validation remain important considerations.
+
+**Research relevance:** Supports evaluating model performance beyond a single dataset.
+
+**DOI:** https://doi.org/10.1007/s40264-024-01505-6
+
+---
+
+### Article 10
+**Topic:** AI in Pharmacovigilance Signal Management
+
+**Authors:** Barbieri et al.  
+**Publication:** Published online in 2025; journal issue details require verification.
+
+**Objective:** To review AI tools, implementation, research, and regulatory considerations in pharmacovigilance signal management.
+
+**Key findings:** AI may support different stages of safety-signal management.
+
+**Limitations:** Implementation and oversight requirements need careful consideration.
+
+**Research relevance:** Highlights the importance of transparency and responsible use.
+
+**DOI:** https://doi.org/10.1080/14740338.2025.2545926
